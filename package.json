@@ -1,18 +1,17 @@
 {
-  "name": "xmlbuilder2",
+  "name": "ekolga_xmlbuilder2",
   "version": "3.0.2",
   "keywords": [
     "xml",
     "xmlbuilder"
   ],
-  "homepage": "http://github.com/oozcitak/xmlbuilder2",
   "description": "An XML builder for node.js",
   "author": "Ozgur Ozcitak <oozcitak@gmail.com>",
   "contributors": [],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/oozcitak/xmlbuilder2.git"
+    "url": "git://github.com/ekolga/xmlbuilder2.git"
   },
   "bugs": {
     "url": "http://github.com/oozcitak/xmlbuilder2/issues"
